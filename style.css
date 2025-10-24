@@ -1,0 +1,16 @@
+body { 
+    background-color: brown;
+    color: aliceblue;
+    font-family: "Playfair Display", serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+button {
+    background-color: rgb(117, 60, 192);
+    color: aliceblue;
+font-family: "Playfair Display", serif;
+
+}
